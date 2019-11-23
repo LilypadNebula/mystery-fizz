@@ -69,7 +69,7 @@
 	}
 </script>
 
-<main class="text-4xl text-center p-4 flex flex-col">
+<main class="text-2xl md:text-4xl text-center p-4 flex flex-col">
 <p>Welcome to the Mystery Fizz Flavor Generator 5000!</p>
 <p>Simply press the button below and see what flavor graces your senses!</p>
 <button class="p-2 bg-red-500 text-white border-black rounded mb-8" on:click={getFlavor}>I Would Like A Flavor, Please!</button>
